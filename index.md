@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Renewly
+title: DueSub
 ---
 
-# Renewly — 续然
+# DueSub — 续然
 
 A local-first subscription, domain, and server renewal reminder for iOS.
 

@@ -1,8 +1,8 @@
-# Privacy Policy — Renewly
+# Privacy Policy — DueSub
 
 _Last updated: April 23, 2026_
 
-Renewly ("the app") is a local-first subscription reminder utility developed by Roy Liu. This policy explains exactly what the app does — and, more importantly, what it does **not** do — with your data.
+DueSub ("the app") is a local-first subscription reminder utility developed by Roy Liu. This policy explains exactly what the app does — and, more importantly, what it does **not** do — with your data.
 
 ## 1. What we collect
 
