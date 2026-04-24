@@ -10,7 +10,7 @@ Renewly ("the app") is a local-first subscription reminder utility developed by 
 
 ## 2. Where your data lives
 
-All data you enter (subscription names, amounts, due dates, notes, etc.) is stored **locally on your device** using Apple's SwiftData framework. The app uses an App Group container (`group.com.royleo.RenewalReminder`) so the Home Screen widget and the main app can share the same local database. Nothing is uploaded to any server.
+All data you enter (subscription names, amounts, due dates, notes, etc.) is stored **locally on your device** using Apple's SwiftData framework. The app uses an App Group container (`group.com.yirenliu.Renewly`) so the Home Screen widget and the main app can share the same local database. Nothing is uploaded to any server.
 
 ## 3. Network access
 

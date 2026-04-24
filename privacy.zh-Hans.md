@@ -10,7 +10,7 @@ _最后更新：2026 年 4 月 23 日_
 
 ## 2. 数据存放在哪里
 
-你输入的所有数据（订阅名、金额、到期日、备注等）均通过 Apple 的 SwiftData 框架**存放在本机**。App 使用 App Group 容器（`group.com.royleo.RenewalReminder`）让主屏 Widget 和主 App 共享同一份本地数据库。没有任何数据上传至任何服务器。
+你输入的所有数据（订阅名、金额、到期日、备注等）均通过 Apple 的 SwiftData 框架**存放在本机**。App 使用 App Group 容器（`group.com.yirenliu.Renewly`）让主屏 Widget 和主 App 共享同一份本地数据库。没有任何数据上传至任何服务器。
 
 ## 3. 联网情况
 
